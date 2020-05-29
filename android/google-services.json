@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594608203973",
+    "firebase_url": "https://flutter-capture.firebaseio.com",
+    "project_id": "flutter-capture",
+    "storage_bucket": "flutter-capture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594608203973:android:b6f073c19a3cb06e1f28ac",
+        "android_client_info": {
+          "package_name": "com.gmail.lizdwissler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594608203973-2pudd79huotr6hhie8p233nlrlpik6k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRE1aZzE9Yz1xXCHLC6N9sfZLQeWBvc7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594608203973-2pudd79huotr6hhie8p233nlrlpik6k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
